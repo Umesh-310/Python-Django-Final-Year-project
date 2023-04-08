@@ -1,0 +1,659 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-13 21:02+1200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: .\cart\forms.py:8 .\cart\templates\cart\detail.html:19
+msgid "Quantity"
+msgstr "量"
+
+#: .\cart\templates\cart\detail.html:7
+#: .\onlineshop\templates\onlineshop\base.html:92
+msgid "Cart"
+msgstr "カート"
+
+#: .\cart\templates\cart\detail.html:13
+msgid "Your shopping cart"
+msgstr "あなたのショッピングカート"
+
+#: .\cart\templates\cart\detail.html:17
+msgid "Image"
+msgstr "画像"
+
+#: .\cart\templates\cart\detail.html:18
+msgid "Product"
+msgstr "製品"
+
+#: .\cart\templates\cart\detail.html:20 .\cart\templates\cart\detail.html:46
+msgid "Remove"
+msgstr "削除する"
+
+#: .\cart\templates\cart\detail.html:21
+msgid "Unit price"
+msgstr "単価"
+
+#: .\cart\templates\cart\detail.html:22
+msgid "Price"
+msgstr "価格"
+
+#: .\cart\templates\cart\detail.html:42
+msgid "Update"
+msgstr "更新"
+
+#: .\cart\templates\cart\detail.html:55
+msgid "Subtotal"
+msgstr "小計"
+
+#: .\cart\templates\cart\detail.html:60
+#, python-format
+msgid ""
+"\n"
+"                    <td>\"%(code)s\" coupon (%(discount)s%% off)</td>\n"
+"                "
+msgstr ""
+
+#: .\cart\templates\cart\detail.html:70
+msgid "Total"
+msgstr "合計"
+
+#: .\cart\templates\cart\detail.html:78
+msgid "Apply a coupon"
+msgstr "クーポンを適用する"
+
+#: .\cart\templates\cart\detail.html:81
+msgid "Apply"
+msgstr "適用"
+
+#: .\cart\templates\cart\detail.html:85
+msgid "Continue shopping"
+msgstr "ショッピングを続ける"
+
+#: .\cart\templates\cart\detail.html:87
+msgid "Proceed To Checkout"
+msgstr "チェックアウトに進む"
+
+#: .\cart\templates\cart\detail.html:96
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:37
+msgid "People who bought this also bought"
+msgstr "これを買った人も買った"
+
+#: .\contact\templates\contact\contact.html:6
+#: .\onlineshop\templates\onlineshop\base.html:118
+#: .\onlineshop\templates\onlineshop\base.html:235
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: .\contact\templates\contact\contact.html:14
+msgid "Contact"
+msgstr "接触"
+
+#: .\contact\templates\contact\contact.html:25
+msgid "Get In Touch"
+msgstr "連絡する"
+
+#: .\contact\templates\contact\contact.html:30
+msgid "Name"
+msgstr "名"
+
+#: .\contact\templates\contact\contact.html:33
+#: .\contact\templates\contact\contact.html:55
+msgid "Email"
+msgstr "Eメール"
+
+#: .\contact\templates\contact\contact.html:36
+msgid "Subject"
+msgstr "件名"
+
+#: .\contact\templates\contact\contact.html:39
+msgid "Your Message Here"
+msgstr "ここにあなたのメッセージ"
+
+#: .\contact\templates\contact\contact.html:42
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:120
+msgid "Submit"
+msgstr "提出する"
+
+#: .\contact\templates\contact\contact.html:49
+msgid "Contact Info"
+msgstr "連絡先情報"
+
+#: .\contact\templates\contact\contact.html:51
+msgid "E-Shopper Inc."
+msgstr ""
+
+#: .\contact\templates\contact\contact.html:52
+msgid "P.O.Box KS 10731, Kumasi , Ashanti"
+msgstr ""
+
+#: .\contact\templates\contact\contact.html:53
+msgid "Ghana"
+msgstr ""
+
+#: .\contact\templates\contact\contact.html:54
+msgid "Mobile"
+msgstr "モバイル"
+
+#: .\contact\templates\contact\contact.html:58
+msgid "Follow Us"
+msgstr "フォローする"
+
+#: .\contact\templates\contact\contact.html:81
+msgid "Ecommerce templates"
+msgstr ""
+
+#: .\contact\templates\contact\contact.html:82
+msgid "Ecommerce themes"
+msgstr ""
+
+#: .\contact\templates\contact\email_success.html:4
+msgid "Email Sent"
+msgstr "送信されたメール"
+
+#: .\contact\templates\contact\email_success.html:12
+msgid "Message Sent"
+msgstr "メッセージが送信されました"
+
+#: .\contact\templates\contact\email_success.html:14
+msgid ""
+"Your Message was sent successfully ! We will get back to you as soon as "
+"possible. Thank You !!"
+msgstr ""
+"あなたのメッセージは正常に送信されました！私たちはあなたに"
+"ありがとう！"
+
+#: .\contact\templates\contact\email_success.html:16
+msgid "Go Back To HomePage"
+msgstr "ホームページに戻る"
+
+#: .\contact\urls.py:14
+msgid "^email_success/$"
+msgstr "email_success/$"
+
+#: .\coupons\forms.py:6
+msgid "Coupon"
+msgstr "クーポン"
+
+#: .\coupons\urls.py:7
+msgid "^apply/$"
+msgstr "^適用/$"
+
+#: .\dashboard.py:24
+msgid "Quick links"
+msgstr ""
+
+#: .\dashboard.py:30
+msgid "Return to site"
+msgstr ""
+
+#: .\dashboard.py:31
+msgid "Change password"
+msgstr ""
+
+#: .\dashboard.py:33
+msgid "Log out"
+msgstr ""
+
+#: .\dashboard.py:41
+msgid "Applications"
+msgstr ""
+
+#: .\dashboard.py:49
+msgid "Administration"
+msgstr ""
+
+#: .\dashboard.py:57
+msgid "Recent Actions"
+msgstr ""
+
+#: .\dashboard.py:65
+msgid "Latest Django News"
+msgstr ""
+
+#: .\dashboard.py:74 .\onlineshop\templates\onlineshop\base.html:243
+msgid "Support"
+msgstr ""
+
+#: .\dashboard.py:77
+msgid "Django documentation"
+msgstr ""
+
+#: .\dashboard.py:82
+msgid "Django \"django-users\" mailing list"
+msgstr ""
+
+#: .\dashboard.py:87
+msgid "Django irc channel"
+msgstr ""
+
+#: .\dashboard.py:102
+msgid "Application models"
+msgstr ""
+
+#: .\eshopper\settings.py:157
+msgid "English"
+msgstr "英語"
+
+#: .\eshopper\settings.py:159
+msgid "Spanish"
+msgstr ""
+
+#: .\eshopper\settings.py:160
+msgid "Chinese"
+msgstr ""
+
+#: .\eshopper\settings.py:161
+msgid "Portuguese"
+msgstr ""
+
+#: .\eshopper\settings.py:162
+msgid "Russian"
+msgstr ""
+
+#: .\eshopper\settings.py:163
+msgid "Dutch"
+msgstr ""
+
+#: .\eshopper\settings.py:164
+msgid "Korean"
+msgstr ""
+
+#: .\eshopper\settings.py:165
+msgid "Italian"
+msgstr ""
+
+#: .\eshopper\settings.py:166
+msgid "Japanese"
+msgstr ""
+
+#: .\eshopper\settings.py:169
+msgid "French"
+msgstr ""
+
+#: .\eshopper\settings.py:170
+msgid "German"
+msgstr ""
+
+#: .\eshopper\urls.py:36
+msgid "^faq/"
+msgstr "^faq/"
+
+#: .\eshopper\urls.py:37
+msgid "^privacy/"
+msgstr "^プライバシー/"
+
+#: .\eshopper\urls.py:38
+msgid "^refund/"
+msgstr "^払い戻し/"
+
+#: .\eshopper\urls.py:39
+msgid "^about/"
+msgstr "^about/"
+
+#: .\eshopper\urls.py:40
+msgid "^contact/"
+msgstr "^連絡先/"
+
+#: .\eshopper\urls.py:41
+msgid "coupons/"
+msgstr "クーポン/"
+
+#: .\eshopper\urls.py:42
+msgid "^orders/"
+msgstr "^注文/"
+
+#: .\eshopper\urls.py:43
+msgid "^cart/"
+msgstr "^カート/"
+
+#: .\eshopper\urls.py:45
+msgid "^payment/"
+msgstr "^支払い/"
+
+#: .\eshopper\urls.py:47
+msgid "^onlineshop/"
+msgstr "^onlineshop/"
+
+#: .\home\templates\home\home.html:6
+#: .\onlineshop\templates\onlineshop\base.html:115
+msgid "Home"
+msgstr "ホーム"
+
+#: .\home\templates\home\home.html:23
+msgid "Software"
+msgstr "ソフトウェア"
+
+#: .\home\templates\home\home.html:23
+msgid "Engineering"
+msgstr "エンジニアリング"
+
+#: .\home\templates\home\home.html:24
+msgid "Essentials of Software Engineering"
+msgstr "ソフトウェア工学の基礎"
+
+#: .\home\templates\home\home.html:25
+msgid ""
+"Written for the undergraduate, one-term course, Essentials of Software "
+"Engineering, Fourth Edition provides students with a systematic engineering "
+"approach to software engineering principles and methodologies. "
+"Comprehensive, yet concise, the Fourth Edition includes new information on "
+"areas of high interest to computer scientists, including Big Data and "
+"developing in the cloud."
+msgstr ""
+"学部1年コース、Essentials of Softwareに書かれています。"
+"「エンジニアリング、第4版は、学生に体系的なエンジニアリングを提供します」"
+"ソフトウェア工学の原則と方法論へのアプローチ"
+"「包括的かつ簡潔な第4版には、"
+"「ビッグデータ」や「ビッグデータ」を含むコンピュータ科学者にとって興味深い分野は、"
+"「雲の中で成長する」"
+
+#: .\home\templates\home\home.html:26 .\home\templates\home\home.html.py:37
+#: .\home\templates\home\home.html:49
+msgid "Get it now"
+msgstr "今すぐ取得する"
+
+#: .\home\templates\home\home.html:34
+msgid "Web"
+msgstr "ウェブ"
+
+#: .\home\templates\home\home.html:34
+msgid "Development"
+msgstr "開発"
+
+#: .\home\templates\home\home.html:35
+msgid "Django for Beginners"
+msgstr "初心者のためのDjango"
+
+#: .\home\templates\home\home.html:36
+msgid ""
+"Django for Beginners takes you from total beginner to confident Django "
+"developer. Proceed step-by-step through four progressively more complex web "
+"applications: from a 'Hello World' app all the way to a robust Blog app with "
+"forms and user accounts. Learn current best practices around class-based "
+"views, templates, urls, user authentication, testing, and deployment."
+msgstr ""
+"初心者のためのDjangoは初心者から自信のあるDjangoまであなたを連れて行きます"
+"開発者。徐々に複雑な4つのWebを段階的に進める"
+"アプリケーション：「Hello World」アプリから、堅牢なブログアプリまで、"
+"フォームとユーザーアカウント。クラスベースの"
+"ビュー、テンプレート、URL、ユーザー認証、テスト、および展開"
+
+#: .\home\templates\home\home.html:46
+msgid "Prog"
+msgstr "プログ"
+
+#: .\home\templates\home\home.html:46
+msgid "ramming"
+msgstr "ラミング"
+
+#: .\home\templates\home\home.html:47
+msgid "Starting Out with Python"
+msgstr "Pythonを使い始める"
+
+#: .\home\templates\home\home.html:48
+msgid ""
+"In Starting Out with Python®, Third Edition Tony Gaddis’ evenly-paced, "
+"accessible coverage introduces students to the basics of programming and "
+"prepares them to transition into more complicated languages. Python, an easy-"
+"to-learn and increasingly popular object-oriented language, allows readers "
+"to become comfortable with the fundamentals of programming without the "
+"troublesome syntax that can be challenging for novices. With the knowledge "
+"acquired using Python, students gain confidence in their skills and learn to "
+"recognize the logic behind developing high-quality programs."
+msgstr ""
+"「Python®で始める第3版Tony Gaddisの「均等なペース」では、"
+"アクセス可能な範囲は、プログラミングの基礎と、"
+"より複雑な言語に移行する準備をしています。Pythonは、"
+"学習してますます普及しているオブジェクト指向言語は、読者に"
+"プログラミングの基礎を快適にするために"
+"初心者には挑戦的な厄介な構文。知識を持って"
+"Pythonを使用して取得した場合、学生はスキルに自信を持ち、"
+"「高品質なプログラムの開発の背後にある論理を認識している」"
+
+#: .\home\urls.py:7
+msgid "^$"
+msgstr "^$"
+
+#: .\onlineshop\templates\onlineshop\base.html:17
+msgid "E-Shopper"
+msgstr "E-Shopper"
+
+#: .\onlineshop\templates\onlineshop\base.html:90
+msgid "Account"
+msgstr "アカウント"
+
+#: .\onlineshop\templates\onlineshop\base.html:91
+msgid "Checkout"
+msgstr "チェックアウト"
+
+#: .\onlineshop\templates\onlineshop\base.html:93
+msgid "Login"
+msgstr "ログイン"
+
+#: .\onlineshop\templates\onlineshop\base.html:107
+msgid "Toggle navigation"
+msgstr "ナビゲーションの切り替え"
+
+#: .\onlineshop\templates\onlineshop\base.html:116
+msgid "Shop"
+msgstr "ショップ"
+
+#: .\onlineshop\templates\onlineshop\base.html:117
+#: .\onlineshop\templates\onlineshop\base.html:264
+msgid "About Us"
+msgstr "私たちに関しては"
+
+#: .\onlineshop\templates\onlineshop\base.html:125
+msgid "Search Products"
+msgstr "製品を探す"
+
+#: .\onlineshop\templates\onlineshop\base.html:153
+msgid "E"
+msgstr ""
+
+#: .\onlineshop\templates\onlineshop\base.html:153
+msgid "-Shopper"
+msgstr ""
+
+#: .\onlineshop\templates\onlineshop\base.html:154
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit,sed do eiusmod "
+"tempor"
+msgstr ""
+
+#: .\onlineshop\templates\onlineshop\base.html:168
+#: .\onlineshop\templates\onlineshop\base.html:183
+#: .\onlineshop\templates\onlineshop\base.html:198
+#: .\onlineshop\templates\onlineshop\base.html:213
+msgid "Circle of Hands"
+msgstr "サークルオブハンズ"
+
+#: .\onlineshop\templates\onlineshop\base.html:169
+#: .\onlineshop\templates\onlineshop\base.html:184
+#: .\onlineshop\templates\onlineshop\base.html:199
+#: .\onlineshop\templates\onlineshop\base.html:214
+msgid "24 DEC 2017"
+msgstr ""
+
+#: .\onlineshop\templates\onlineshop\base.html:233
+msgid "Service"
+msgstr "サービス"
+
+#: .\onlineshop\templates\onlineshop\base.html:236
+msgid "Order Status"
+msgstr "注文の状況"
+
+#: .\onlineshop\templates\onlineshop\base.html:245
+msgid "Copyright"
+msgstr "著作権"
+
+#: .\onlineshop\templates\onlineshop\base.html:246
+msgid "FAQ’s"
+msgstr "よくある質問"
+
+#: .\onlineshop\templates\onlineshop\base.html:253
+msgid "Policies"
+msgstr "ポリシー"
+
+#: .\onlineshop\templates\onlineshop\base.html:255
+msgid "Privacy Policy"
+msgstr "個人情報保護方針"
+
+#: .\onlineshop\templates\onlineshop\base.html:256
+msgid "Refund Policy"
+msgstr "代金返却方針"
+
+#: .\onlineshop\templates\onlineshop\base.html:262
+#: .\onlineshop\templates\onlineshop\base.html:271
+msgid "About Shopper"
+msgstr "Shopperについて"
+
+#: .\onlineshop\templates\onlineshop\base.html:265
+msgid "Careers"
+msgstr "キャリア"
+
+#: .\onlineshop\templates\onlineshop\base.html:276
+msgid "Get the most recent updates from"
+msgstr "最新のアップデートを入手する"
+
+#: .\onlineshop\templates\onlineshop\base.html:276
+msgid "E-Shopper and be updated your self..."
+msgstr "E-Shopperと自分で更新する..."
+
+#: .\onlineshop\templates\onlineshop\base.html:289
+msgid "Developed by"
+msgstr "によって開発された"
+
+#: .\onlineshop\templates\onlineshop\base.html:289
+msgid "Williano"
+msgstr ""
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:8
+#: .\onlineshop\templates\onlineshop\product\product-list.html:6
+msgid "Products"
+msgstr "製品"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:23
+msgid "Add to cart"
+msgstr "カートに追加"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:26
+msgid "Availability"
+msgstr "可用性"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:27
+msgid "Stock"
+msgstr "株式"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:28
+msgid "Condition"
+msgstr "調子"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:30
+msgid "Product Details"
+msgstr "製品詳細"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:89
+msgid "Product Reviews"
+msgstr "商品レビュー"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:105
+msgid "There are no reviews yet."
+msgstr "まだレビューはありません。"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:108
+msgid "Your review has been added."
+msgstr "あなたのレビューが追加されました。"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:111
+msgid "Write Your Review"
+msgstr "あなたのレビューを書く"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:116
+msgid "Your Name"
+msgstr "あなたの名前"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:117
+msgid "Email Address"
+msgstr "電子メールアドレス"
+
+#: .\onlineshop\templates\onlineshop\product\product-detail.html:119
+msgid "Your Review"
+msgstr "あなたのレビュー"
+
+#: .\onlineshop\templates\onlineshop\product\product-list.html:23
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: .\onlineshop\templates\onlineshop\product\product-list.html:27
+msgid "All Products"
+msgstr "すべての製品"
+
+#: .\onlineshop\templates\onlineshop\product\product-list.html:43
+msgid "Price Range"
+msgstr "価格帯"
+
+#: .\onlineshop\templates\onlineshop\product\product-list.html:60
+msgid "ALL PRODUCTS"
+msgstr "すべての製品"
+
+#: .\onlineshop\urls.py:7
+msgid "^product_list/$"
+msgstr "^product_list/$"
+
+#: .\payment\templates\payment\canceled.html:7
+msgid "Canceled Payment"
+msgstr "キャンセルされた支払い"
+
+#: .\payment\templates\payment\canceled.html:14
+msgid "Your payment has not been processed"
+msgstr "お支払いが処理されていません"
+
+#: .\payment\templates\payment\canceled.html:15
+msgid "There was a problem processing your payment."
+msgstr "お支払いの処理中に問題が発生しました。"
+
+#: .\payment\templates\payment\done.html:6
+msgid "Successful Payment"
+msgstr "成功した支払い"
+
+#: .\payment\templates\payment\done.html:13
+msgid "Your payment was successful"
+msgstr "お支払いが成功しました"
+
+#: .\payment\templates\payment\done.html:14
+msgid "Your payment has been successfully received."
+msgstr "お支払いが正常に受信されました。"
+
+#: .\payment\templates\payment\process.html:5
+msgid "Payment"
+msgstr "支払い"
+
+#: .\payment\templates\payment\process.html:12
+msgid "Pay using PayPal"
+msgstr "PayPalを使用して支払う"
+
+#: .\payment\urls.py:7
+msgid "^process/$"
+msgstr "^process/$"
+
+#: .\payment\urls.py:8
+msgid "^done/$"
+msgstr "^done/$"
+
+#: .\payment\urls.py:9
+msgid "^canceled/$"
+msgstr "^cancelled/$"

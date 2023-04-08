@@ -1,0 +1,24 @@
+{% extends "onlineshop/base.html" %}
+{% load i18n %}
+{% load static %}
+
+{% block title %}{% trans "Payment" %}{% endblock %}
+
+{% block content %}
+    <br /><br />
+   <center>
+       <div class="jumbotron">
+
+           <h1 class="display-3">{% trans "Pay using PayPal" %}</h1>
+            {{ form.render }}
+       </div>
+   </center>
+
+     <br /><br /><br />
+
+    <section id="advertisement">
+		<div class="container">
+			<img src="{% static 'img/advertisement.jpg' %}" alt="" />
+		</div>
+	</section>
+{% endblock %}
