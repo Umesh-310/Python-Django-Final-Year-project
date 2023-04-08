@@ -21,7 +21,7 @@ A multi-lingual E-Commerce website I built with Python and Django for my final(s
 
 Home Page
 :-------------------------:
-![HomePage](https://user-images.githubusercontent.com/19711677/86519243-7a55af00-bdfe-11ea-8a43-a9850710bd82.JPG)
+![HomePage](https://raw.githubusercontent.com/Umesh-310/Python-Django-Mca-4th/main/Project%20Screenshots/HomePage.JPG)
 
 
 Language Dropdown Page
@@ -79,9 +79,6 @@ PayPal Payment Page
 * Bootstrap 4
 * Font awesome
 * PostgreSQL
-* Celery
-* Redis
-* Ngrok
 
 ## Setup
 
@@ -140,19 +137,7 @@ To run this app, you will need to follow these 3 steps:
 Project is: _done_
 
 ## Contact
-Created by [Williano](https://williano.github.io/) - feel free to contact me!
+Created by - feel free to contact me!
 
-## License
->You can check out the full license [here](https://github.com/Williano/Final-Senior-Year-Project-/blob/master/LICENSE.md)
-
-This project is licensed under the terms of the **MIT** license.
-
-## Contributing
-
-1. Fork it (<https://github.com/Williano/Final-Senior-Year-Project-.git>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
 
 
